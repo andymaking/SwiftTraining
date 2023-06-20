@@ -11,6 +11,9 @@
 		9A2B45E42A39D3BB00123E06 /* Class24Labels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2B45E32A39D3BB00123E06 /* Class24Labels.swift */; };
 		9A2B45E72A39DC1E00123E06 /* Label+CapsuleStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2B45E62A39DC1E00123E06 /* Label+CapsuleStyle.swift */; };
 		9A2B45E92A39E6C400123E06 /* Class25Padding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2B45E82A39E6C400123E06 /* Class25Padding.swift */; };
+		9A2B45EB2A3CAF6F00123E06 /* Class26Spinner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2B45EA2A3CAF6F00123E06 /* Class26Spinner.swift */; };
+		9A2B45EE2A3CC14C00123E06 /* ProgreesView+Rounded.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2B45ED2A3CC14C00123E06 /* ProgreesView+Rounded.swift */; };
+		9A2B45F02A3DE27300123E06 /* Class27ToggleCheckBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2B45EF2A3DE27300123E06 /* Class27ToggleCheckBox.swift */; };
 		9A2E7A232A38C48B00F36DD2 /* Class21Divider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2E7A222A38C48B00F36DD2 /* Class21Divider.swift */; };
 		9A2E7A252A38C66A00F36DD2 /* Class22ColorPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2E7A242A38C66A00F36DD2 /* Class22ColorPicker.swift */; };
 		9A4374092A3482470065A609 /* PeopleViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4374082A3482470065A609 /* PeopleViewModel.swift */; };
@@ -31,6 +34,18 @@
 		9A4FB26E2A28ACF2009E0D5E /* Class15PassingState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4FB26D2A28ACF2009E0D5E /* Class15PassingState.swift */; };
 		9A4FB2702A28ADDB009E0D5E /* CostomLoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4FB26F2A28ADDB009E0D5E /* CostomLoadingView.swift */; };
 		9A4FB2722A28B047009E0D5E /* Class16Observable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4FB2712A28B047009E0D5E /* Class16Observable.swift */; };
+		9A72FC132A3F6F41003BEEBB /* Toogle+CheckBoxStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A72FC122A3F6F41003BEEBB /* Toogle+CheckBoxStyle.swift */; };
+		9A72FC152A3F71E2003BEEBB /* Class28Spacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A72FC142A3F71E2003BEEBB /* Class28Spacer.swift */; };
+		9A72FC172A3F74A0003BEEBB /* Class29Stepper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A72FC162A3F74A0003BEEBB /* Class29Stepper.swift */; };
+		9A72FC192A3FBCD3003BEEBB /* Class30Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A72FC182A3FBCD3003BEEBB /* Class30Buttons.swift */; };
+		9A72FC1B2A408D75003BEEBB /* Button+SendStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A72FC1A2A408D75003BEEBB /* Button+SendStyle.swift */; };
+		9A72FC1D2A408FC7003BEEBB /* SendButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A72FC1C2A408FC7003BEEBB /* SendButton.swift */; };
+		9A72FC1F2A40AD96003BEEBB /* Class31NewButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A72FC1E2A40AD96003BEEBB /* Class31NewButton.swift */; };
+		9A72FC212A40B8F5003BEEBB /* Class32TabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A72FC202A40B8F5003BEEBB /* Class32TabView.swift */; };
+		9A72FC242A40BAD0003BEEBB /* ScreenOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A72FC232A40BAD0003BEEBB /* ScreenOne.swift */; };
+		9A72FC262A40BB3A003BEEBB /* ScreenTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A72FC252A40BB3A003BEEBB /* ScreenTwo.swift */; };
+		9A72FC282A4161D6003BEEBB /* Class33DatePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A72FC272A4161D6003BEEBB /* Class33DatePicker.swift */; };
+		9A72FC2C2A4169D4003BEEBB /* Class34TextFields.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A72FC2B2A4169D4003BEEBB /* Class34TextFields.swift */; };
 		9AE958E82A21D5B80012E4C8 /* tunde_class_oneApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AE958E72A21D5B80012E4C8 /* tunde_class_oneApp.swift */; };
 		9AE958EA2A21D5B80012E4C8 /* ClassOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AE958E92A21D5B80012E4C8 /* ClassOne.swift */; };
 		9AE958EC2A21D5B90012E4C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9AE958EB2A21D5B90012E4C8 /* Assets.xcassets */; };
@@ -44,6 +59,9 @@
 		9A2B45E32A39D3BB00123E06 /* Class24Labels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class24Labels.swift; sourceTree = "<group>"; };
 		9A2B45E62A39DC1E00123E06 /* Label+CapsuleStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Label+CapsuleStyle.swift"; sourceTree = "<group>"; };
 		9A2B45E82A39E6C400123E06 /* Class25Padding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class25Padding.swift; sourceTree = "<group>"; };
+		9A2B45EA2A3CAF6F00123E06 /* Class26Spinner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class26Spinner.swift; sourceTree = "<group>"; };
+		9A2B45ED2A3CC14C00123E06 /* ProgreesView+Rounded.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ProgreesView+Rounded.swift"; sourceTree = "<group>"; };
+		9A2B45EF2A3DE27300123E06 /* Class27ToggleCheckBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class27ToggleCheckBox.swift; sourceTree = "<group>"; };
 		9A2E7A222A38C48B00F36DD2 /* Class21Divider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class21Divider.swift; sourceTree = "<group>"; };
 		9A2E7A242A38C66A00F36DD2 /* Class22ColorPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class22ColorPicker.swift; sourceTree = "<group>"; };
 		9A4374082A3482470065A609 /* PeopleViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeopleViewModel.swift; sourceTree = "<group>"; };
@@ -64,6 +82,18 @@
 		9A4FB26D2A28ACF2009E0D5E /* Class15PassingState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class15PassingState.swift; sourceTree = "<group>"; };
 		9A4FB26F2A28ADDB009E0D5E /* CostomLoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CostomLoadingView.swift; sourceTree = "<group>"; };
 		9A4FB2712A28B047009E0D5E /* Class16Observable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class16Observable.swift; sourceTree = "<group>"; };
+		9A72FC122A3F6F41003BEEBB /* Toogle+CheckBoxStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Toogle+CheckBoxStyle.swift"; sourceTree = "<group>"; };
+		9A72FC142A3F71E2003BEEBB /* Class28Spacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class28Spacer.swift; sourceTree = "<group>"; };
+		9A72FC162A3F74A0003BEEBB /* Class29Stepper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class29Stepper.swift; sourceTree = "<group>"; };
+		9A72FC182A3FBCD3003BEEBB /* Class30Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class30Buttons.swift; sourceTree = "<group>"; };
+		9A72FC1A2A408D75003BEEBB /* Button+SendStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Button+SendStyle.swift"; sourceTree = "<group>"; };
+		9A72FC1C2A408FC7003BEEBB /* SendButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SendButton.swift; sourceTree = "<group>"; };
+		9A72FC1E2A40AD96003BEEBB /* Class31NewButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class31NewButton.swift; sourceTree = "<group>"; };
+		9A72FC202A40B8F5003BEEBB /* Class32TabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class32TabView.swift; sourceTree = "<group>"; };
+		9A72FC232A40BAD0003BEEBB /* ScreenOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenOne.swift; sourceTree = "<group>"; };
+		9A72FC252A40BB3A003BEEBB /* ScreenTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenTwo.swift; sourceTree = "<group>"; };
+		9A72FC272A4161D6003BEEBB /* Class33DatePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class33DatePicker.swift; sourceTree = "<group>"; };
+		9A72FC2B2A4169D4003BEEBB /* Class34TextFields.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class34TextFields.swift; sourceTree = "<group>"; };
 		9AE958E42A21D5B80012E4C8 /* tunde_class_one.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tunde_class_one.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AE958E72A21D5B80012E4C8 /* tunde_class_oneApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tunde_class_oneApp.swift; sourceTree = "<group>"; };
 		9AE958E92A21D5B80012E4C8 /* ClassOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassOne.swift; sourceTree = "<group>"; };
@@ -91,6 +121,14 @@
 				9A2B45E62A39DC1E00123E06 /* Label+CapsuleStyle.swift */,
 			);
 			path = Class24Component;
+			sourceTree = "<group>";
+		};
+		9A2B45EC2A3CC0E500123E06 /* Class26 */ = {
+			isa = PBXGroup;
+			children = (
+				9A2B45ED2A3CC14C00123E06 /* ProgreesView+Rounded.swift */,
+			);
+			path = Class26;
 			sourceTree = "<group>";
 		};
 		9A43740A2A34832E0065A609 /* ViewModel */ = {
@@ -123,6 +161,15 @@
 			path = Class18ObjectState;
 			sourceTree = "<group>";
 		};
+		9A72FC222A40BABB003BEEBB /* Class32Content */ = {
+			isa = PBXGroup;
+			children = (
+				9A72FC232A40BAD0003BEEBB /* ScreenOne.swift */,
+				9A72FC252A40BB3A003BEEBB /* ScreenTwo.swift */,
+			);
+			path = Class32Content;
+			sourceTree = "<group>";
+		};
 		9AE958DB2A21D5B80012E4C8 = {
 			isa = PBXGroup;
 			children = (
@@ -142,6 +189,8 @@
 		9AE958E62A21D5B80012E4C8 /* tunde_class_one */ = {
 			isa = PBXGroup;
 			children = (
+				9A72FC222A40BABB003BEEBB /* Class32Content */,
+				9A2B45EC2A3CC0E500123E06 /* Class26 */,
 				9A2B45E52A39DBDF00123E06 /* Class24Component */,
 				9A43741A2A3887D50065A609 /* Class18ObjectState */,
 				9A43740F2A34BE090065A609 /* Class17 */,
@@ -164,6 +213,18 @@
 				9A2B45E12A39C6EC00123E06 /* Class23OpeningLinks.swift */,
 				9A2B45E32A39D3BB00123E06 /* Class24Labels.swift */,
 				9A2B45E82A39E6C400123E06 /* Class25Padding.swift */,
+				9A2B45EA2A3CAF6F00123E06 /* Class26Spinner.swift */,
+				9A2B45EF2A3DE27300123E06 /* Class27ToggleCheckBox.swift */,
+				9A72FC122A3F6F41003BEEBB /* Toogle+CheckBoxStyle.swift */,
+				9A72FC142A3F71E2003BEEBB /* Class28Spacer.swift */,
+				9A72FC162A3F74A0003BEEBB /* Class29Stepper.swift */,
+				9A72FC182A3FBCD3003BEEBB /* Class30Buttons.swift */,
+				9A72FC1A2A408D75003BEEBB /* Button+SendStyle.swift */,
+				9A72FC1C2A408FC7003BEEBB /* SendButton.swift */,
+				9A72FC1E2A40AD96003BEEBB /* Class31NewButton.swift */,
+				9A72FC202A40B8F5003BEEBB /* Class32TabView.swift */,
+				9A72FC272A4161D6003BEEBB /* Class33DatePicker.swift */,
+				9A72FC2B2A4169D4003BEEBB /* Class34TextFields.swift */,
 				9AE958EB2A21D5B90012E4C8 /* Assets.xcassets */,
 				9AE958ED2A21D5B90012E4C8 /* tunde_class_one.entitlements */,
 				9AE958EE2A21D5B90012E4C8 /* Preview Content */,
@@ -251,17 +312,29 @@
 			files = (
 				9A4374092A3482470065A609 /* PeopleViewModel.swift in Sources */,
 				9A4FB26C2A27B1BE009E0D5E /* ClassEightState.swift in Sources */,
+				9A72FC152A3F71E2003BEEBB /* Class28Spacer.swift in Sources */,
+				9A72FC132A3F6F41003BEEBB /* Toogle+CheckBoxStyle.swift in Sources */,
 				9A4FB2662A24F97C009E0D5E /* ClassFiveShapes.swift in Sources */,
 				9A4374112A34BE350065A609 /* PurchaseView.swift in Sources */,
+				9A72FC282A4161D6003BEEBB /* Class33DatePicker.swift in Sources */,
+				9A72FC192A3FBCD3003BEEBB /* Class30Buttons.swift in Sources */,
 				9AE958EA2A21D5B80012E4C8 /* ClassOne.swift in Sources */,
 				9A4374202A389BAB0065A609 /* LoggedInView.swift in Sources */,
+				9A72FC1F2A40AD96003BEEBB /* Class31NewButton.swift in Sources */,
+				9A72FC2C2A4169D4003BEEBB /* Class34TextFields.swift in Sources */,
 				9A2E7A232A38C48B00F36DD2 /* Class21Divider.swift in Sources */,
 				9A4FB2642A24D4E8009E0D5E /* ClassFourGradient.swift in Sources */,
+				9A72FC242A40BAD0003BEEBB /* ScreenOne.swift in Sources */,
+				9A2B45EB2A3CAF6F00123E06 /* Class26Spinner.swift in Sources */,
+				9A72FC172A3F74A0003BEEBB /* Class29Stepper.swift in Sources */,
 				9A4374222A389C450065A609 /* LogInViewModel.swift in Sources */,
 				9A4FB2722A28B047009E0D5E /* Class16Observable.swift in Sources */,
+				9A2B45EE2A3CC14C00123E06 /* ProgreesView+Rounded.swift in Sources */,
 				9AE958F92A22205B0012E4C8 /* ClassThree.swift in Sources */,
 				9A2B45E42A39D3BB00123E06 /* Class24Labels.swift in Sources */,
 				9AE958E82A21D5B80012E4C8 /* tunde_class_oneApp.swift in Sources */,
+				9A72FC212A40B8F5003BEEBB /* Class32TabView.swift in Sources */,
+				9A72FC1D2A408FC7003BEEBB /* SendButton.swift in Sources */,
 				9A4374132A34BF8B0065A609 /* PurchaseStateView.swift in Sources */,
 				9A4FB2682A2500E4009E0D5E /* ClassSixBorder.swift in Sources */,
 				9A2B45E92A39E6C400123E06 /* Class25Padding.swift in Sources */,
@@ -271,12 +344,15 @@
 				9A4FB26E2A28ACF2009E0D5E /* Class15PassingState.swift in Sources */,
 				9A2E7A252A38C66A00F36DD2 /* Class22ColorPicker.swift in Sources */,
 				9A4FB2702A28ADDB009E0D5E /* CostomLoadingView.swift in Sources */,
+				9A72FC262A40BB3A003BEEBB /* ScreenTwo.swift in Sources */,
 				9A43741E2A389A860065A609 /* LoginView.swift in Sources */,
 				9A43740E2A34BDF90065A609 /* Class17EnviromentObject.swift in Sources */,
 				9A4374242A38A0CD0065A609 /* Content18.swift in Sources */,
 				9A2B45E72A39DC1E00123E06 /* Label+CapsuleStyle.swift in Sources */,
 				9AE958F72A21E1C90012E4C8 /* ClassTwo.swift in Sources */,
+				9A2B45F02A3DE27300123E06 /* Class27ToggleCheckBox.swift in Sources */,
 				9A2B45E22A39C6EC00123E06 /* Class23OpeningLinks.swift in Sources */,
+				9A72FC1B2A408D75003BEEBB /* Button+SendStyle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
