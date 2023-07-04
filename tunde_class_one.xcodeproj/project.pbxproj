@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9A0F2B902A493837003E35EA /* NumbersList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A0F2B8F2A493837003E35EA /* NumbersList.swift */; };
+		9A1F9CEC2A536B3400A9BE7A /* People.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1F9CEB2A536B3400A9BE7A /* People.swift */; };
+		9A1F9CF52A53EFFC00A9BE7A /* PeoplesViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1F9CF42A53EFFC00A9BE7A /* PeoplesViewModel.swift */; };
+		9A1F9CF72A53F07100A9BE7A /* HintView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1F9CF62A53F07100A9BE7A /* HintView.swift */; };
+		9A1F9CF92A53F0BC00A9BE7A /* PeopleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1F9CF82A53F0BC00A9BE7A /* PeopleView.swift */; };
+		9A1F9CFB2A54253600A9BE7A /* Class46ForEachWithIdentifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1F9CFA2A54253600A9BE7A /* Class46ForEachWithIdentifiers.swift */; };
+		9A1F9CFE2A542BB400A9BE7A /* PersonForEachView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1F9CFD2A542BB400A9BE7A /* PersonForEachView.swift */; };
+		9A1F9D002A54373800A9BE7A /* Class48ScrollViewReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1F9CFF2A54373800A9BE7A /* Class48ScrollViewReader.swift */; };
 		9A2B45E22A39C6EC00123E06 /* Class23OpeningLinks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2B45E12A39C6EC00123E06 /* Class23OpeningLinks.swift */; };
 		9A2B45E42A39D3BB00123E06 /* Class24Labels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2B45E32A39D3BB00123E06 /* Class24Labels.swift */; };
 		9A2B45E72A39DC1E00123E06 /* Label+CapsuleStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2B45E62A39DC1E00123E06 /* Label+CapsuleStyle.swift */; };
@@ -46,6 +54,17 @@
 		9A72FC262A40BB3A003BEEBB /* ScreenTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A72FC252A40BB3A003BEEBB /* ScreenTwo.swift */; };
 		9A72FC282A4161D6003BEEBB /* Class33DatePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A72FC272A4161D6003BEEBB /* Class33DatePicker.swift */; };
 		9A72FC2C2A4169D4003BEEBB /* Class34TextFields.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A72FC2B2A4169D4003BEEBB /* Class34TextFields.swift */; };
+		9A72FC2E2A41E2DC003BEEBB /* Class35MultilineTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A72FC2D2A41E2DC003BEEBB /* Class35MultilineTextField.swift */; };
+		9A72FC302A41F70B003BEEBB /* Class36Slider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A72FC2F2A41F70B003BEEBB /* Class36Slider.swift */; };
+		9A72FC322A41FDD9003BEEBB /* Class37TextStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A72FC312A41FDD9003BEEBB /* Class37TextStyle.swift */; };
+		9A72FC342A42048D003BEEBB /* Class38GroupBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A72FC332A42048D003BEEBB /* Class38GroupBox.swift */; };
+		9A72FC372A423FAB003BEEBB /* GroupBox+SavedStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A72FC362A423FAB003BEEBB /* GroupBox+SavedStyle.swift */; };
+		9A72FC392A425BC8003BEEBB /* Class39ControlGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A72FC382A425BC8003BEEBB /* Class39ControlGroup.swift */; };
+		9A72FC3C2A425EA1003BEEBB /* ControlGroup+QuantityStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A72FC3B2A425EA1003BEEBB /* ControlGroup+QuantityStyle.swift */; };
+		9A72FC3E2A42609C003BEEBB /* Class40BackVsOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A72FC3D2A42609C003BEEBB /* Class40BackVsOverlay.swift */; };
+		9A72FC402A441FAA003BEEBB /* Class42SafeArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A72FC3F2A441FAA003BEEBB /* Class42SafeArea.swift */; };
+		9A80C9632A4F235B004EC23B /* Class43AsyncImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A80C9622A4F235B004EC23B /* Class43AsyncImage.swift */; };
+		9AA182C82A5367C40074CD97 /* Class44PullToRefresh.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AA182C72A5367C40074CD97 /* Class44PullToRefresh.swift */; };
 		9AE958E82A21D5B80012E4C8 /* tunde_class_oneApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AE958E72A21D5B80012E4C8 /* tunde_class_oneApp.swift */; };
 		9AE958EA2A21D5B80012E4C8 /* ClassOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AE958E92A21D5B80012E4C8 /* ClassOne.swift */; };
 		9AE958EC2A21D5B90012E4C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9AE958EB2A21D5B90012E4C8 /* Assets.xcassets */; };
@@ -55,6 +74,14 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9A0F2B8F2A493837003E35EA /* NumbersList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumbersList.swift; sourceTree = "<group>"; };
+		9A1F9CEB2A536B3400A9BE7A /* People.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = People.swift; sourceTree = "<group>"; };
+		9A1F9CF42A53EFFC00A9BE7A /* PeoplesViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeoplesViewModel.swift; sourceTree = "<group>"; };
+		9A1F9CF62A53F07100A9BE7A /* HintView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HintView.swift; sourceTree = "<group>"; };
+		9A1F9CF82A53F0BC00A9BE7A /* PeopleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeopleView.swift; sourceTree = "<group>"; };
+		9A1F9CFA2A54253600A9BE7A /* Class46ForEachWithIdentifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class46ForEachWithIdentifiers.swift; sourceTree = "<group>"; };
+		9A1F9CFD2A542BB400A9BE7A /* PersonForEachView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonForEachView.swift; sourceTree = "<group>"; };
+		9A1F9CFF2A54373800A9BE7A /* Class48ScrollViewReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class48ScrollViewReader.swift; sourceTree = "<group>"; };
 		9A2B45E12A39C6EC00123E06 /* Class23OpeningLinks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class23OpeningLinks.swift; sourceTree = "<group>"; };
 		9A2B45E32A39D3BB00123E06 /* Class24Labels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class24Labels.swift; sourceTree = "<group>"; };
 		9A2B45E62A39DC1E00123E06 /* Label+CapsuleStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Label+CapsuleStyle.swift"; sourceTree = "<group>"; };
@@ -94,6 +121,17 @@
 		9A72FC252A40BB3A003BEEBB /* ScreenTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenTwo.swift; sourceTree = "<group>"; };
 		9A72FC272A4161D6003BEEBB /* Class33DatePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class33DatePicker.swift; sourceTree = "<group>"; };
 		9A72FC2B2A4169D4003BEEBB /* Class34TextFields.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class34TextFields.swift; sourceTree = "<group>"; };
+		9A72FC2D2A41E2DC003BEEBB /* Class35MultilineTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class35MultilineTextField.swift; sourceTree = "<group>"; };
+		9A72FC2F2A41F70B003BEEBB /* Class36Slider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class36Slider.swift; sourceTree = "<group>"; };
+		9A72FC312A41FDD9003BEEBB /* Class37TextStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class37TextStyle.swift; sourceTree = "<group>"; };
+		9A72FC332A42048D003BEEBB /* Class38GroupBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class38GroupBox.swift; sourceTree = "<group>"; };
+		9A72FC362A423FAB003BEEBB /* GroupBox+SavedStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GroupBox+SavedStyle.swift"; sourceTree = "<group>"; };
+		9A72FC382A425BC8003BEEBB /* Class39ControlGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class39ControlGroup.swift; sourceTree = "<group>"; };
+		9A72FC3B2A425EA1003BEEBB /* ControlGroup+QuantityStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ControlGroup+QuantityStyle.swift"; sourceTree = "<group>"; };
+		9A72FC3D2A42609C003BEEBB /* Class40BackVsOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class40BackVsOverlay.swift; sourceTree = "<group>"; };
+		9A72FC3F2A441FAA003BEEBB /* Class42SafeArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class42SafeArea.swift; sourceTree = "<group>"; };
+		9A80C9622A4F235B004EC23B /* Class43AsyncImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class43AsyncImage.swift; sourceTree = "<group>"; };
+		9AA182C72A5367C40074CD97 /* Class44PullToRefresh.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class44PullToRefresh.swift; sourceTree = "<group>"; };
 		9AE958E42A21D5B80012E4C8 /* tunde_class_one.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tunde_class_one.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AE958E72A21D5B80012E4C8 /* tunde_class_oneApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tunde_class_oneApp.swift; sourceTree = "<group>"; };
 		9AE958E92A21D5B80012E4C8 /* ClassOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassOne.swift; sourceTree = "<group>"; };
@@ -115,6 +153,57 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9A0F2B8E2A493815003E35EA /* Class42 */ = {
+			isa = PBXGroup;
+			children = (
+				9A0F2B8F2A493837003E35EA /* NumbersList.swift */,
+			);
+			path = Class42;
+			sourceTree = "<group>";
+		};
+		9A1F9CE82A536B0B00A9BE7A /* Class44 */ = {
+			isa = PBXGroup;
+			children = (
+				9A1F9CEF2A53ED5000A9BE7A /* Views */,
+				9A1F9CEA2A536B1D00A9BE7A /* ViewModel */,
+				9A1F9CE92A536B1400A9BE7A /* Model */,
+			);
+			path = Class44;
+			sourceTree = "<group>";
+		};
+		9A1F9CE92A536B1400A9BE7A /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				9A1F9CEB2A536B3400A9BE7A /* People.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		9A1F9CEA2A536B1D00A9BE7A /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				9A1F9CF42A53EFFC00A9BE7A /* PeoplesViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		9A1F9CEF2A53ED5000A9BE7A /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				9A1F9CF62A53F07100A9BE7A /* HintView.swift */,
+				9A1F9CF82A53F0BC00A9BE7A /* PeopleView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		9A1F9CFC2A542B9700A9BE7A /* Class46 */ = {
+			isa = PBXGroup;
+			children = (
+				9A1F9CFD2A542BB400A9BE7A /* PersonForEachView.swift */,
+			);
+			path = Class46;
+			sourceTree = "<group>";
+		};
 		9A2B45E52A39DBDF00123E06 /* Class24Component */ = {
 			isa = PBXGroup;
 			children = (
@@ -170,6 +259,22 @@
 			path = Class32Content;
 			sourceTree = "<group>";
 		};
+		9A72FC352A423F89003BEEBB /* Class38 */ = {
+			isa = PBXGroup;
+			children = (
+				9A72FC362A423FAB003BEEBB /* GroupBox+SavedStyle.swift */,
+			);
+			path = Class38;
+			sourceTree = "<group>";
+		};
+		9A72FC3A2A425E86003BEEBB /* Class39 */ = {
+			isa = PBXGroup;
+			children = (
+				9A72FC3B2A425EA1003BEEBB /* ControlGroup+QuantityStyle.swift */,
+			);
+			path = Class39;
+			sourceTree = "<group>";
+		};
 		9AE958DB2A21D5B80012E4C8 = {
 			isa = PBXGroup;
 			children = (
@@ -189,6 +294,11 @@
 		9AE958E62A21D5B80012E4C8 /* tunde_class_one */ = {
 			isa = PBXGroup;
 			children = (
+				9A1F9CFC2A542B9700A9BE7A /* Class46 */,
+				9A1F9CE82A536B0B00A9BE7A /* Class44 */,
+				9A0F2B8E2A493815003E35EA /* Class42 */,
+				9A72FC3A2A425E86003BEEBB /* Class39 */,
+				9A72FC352A423F89003BEEBB /* Class38 */,
 				9A72FC222A40BABB003BEEBB /* Class32Content */,
 				9A2B45EC2A3CC0E500123E06 /* Class26 */,
 				9A2B45E52A39DBDF00123E06 /* Class24Component */,
@@ -225,6 +335,17 @@
 				9A72FC202A40B8F5003BEEBB /* Class32TabView.swift */,
 				9A72FC272A4161D6003BEEBB /* Class33DatePicker.swift */,
 				9A72FC2B2A4169D4003BEEBB /* Class34TextFields.swift */,
+				9A72FC2D2A41E2DC003BEEBB /* Class35MultilineTextField.swift */,
+				9A72FC2F2A41F70B003BEEBB /* Class36Slider.swift */,
+				9A72FC312A41FDD9003BEEBB /* Class37TextStyle.swift */,
+				9A72FC332A42048D003BEEBB /* Class38GroupBox.swift */,
+				9A72FC382A425BC8003BEEBB /* Class39ControlGroup.swift */,
+				9A72FC3D2A42609C003BEEBB /* Class40BackVsOverlay.swift */,
+				9A72FC3F2A441FAA003BEEBB /* Class42SafeArea.swift */,
+				9A80C9622A4F235B004EC23B /* Class43AsyncImage.swift */,
+				9AA182C72A5367C40074CD97 /* Class44PullToRefresh.swift */,
+				9A1F9CFA2A54253600A9BE7A /* Class46ForEachWithIdentifiers.swift */,
+				9A1F9CFF2A54373800A9BE7A /* Class48ScrollViewReader.swift */,
 				9AE958EB2A21D5B90012E4C8 /* Assets.xcassets */,
 				9AE958ED2A21D5B90012E4C8 /* tunde_class_one.entitlements */,
 				9AE958EE2A21D5B90012E4C8 /* Preview Content */,
@@ -311,33 +432,49 @@
 			buildActionMask = 2147483647;
 			files = (
 				9A4374092A3482470065A609 /* PeopleViewModel.swift in Sources */,
+				9A72FC322A41FDD9003BEEBB /* Class37TextStyle.swift in Sources */,
+				9A72FC302A41F70B003BEEBB /* Class36Slider.swift in Sources */,
+				9A1F9D002A54373800A9BE7A /* Class48ScrollViewReader.swift in Sources */,
 				9A4FB26C2A27B1BE009E0D5E /* ClassEightState.swift in Sources */,
+				9A80C9632A4F235B004EC23B /* Class43AsyncImage.swift in Sources */,
+				9A1F9CF72A53F07100A9BE7A /* HintView.swift in Sources */,
 				9A72FC152A3F71E2003BEEBB /* Class28Spacer.swift in Sources */,
 				9A72FC132A3F6F41003BEEBB /* Toogle+CheckBoxStyle.swift in Sources */,
 				9A4FB2662A24F97C009E0D5E /* ClassFiveShapes.swift in Sources */,
 				9A4374112A34BE350065A609 /* PurchaseView.swift in Sources */,
 				9A72FC282A4161D6003BEEBB /* Class33DatePicker.swift in Sources */,
 				9A72FC192A3FBCD3003BEEBB /* Class30Buttons.swift in Sources */,
+				9A72FC2E2A41E2DC003BEEBB /* Class35MultilineTextField.swift in Sources */,
+				9A1F9CF52A53EFFC00A9BE7A /* PeoplesViewModel.swift in Sources */,
 				9AE958EA2A21D5B80012E4C8 /* ClassOne.swift in Sources */,
+				9A72FC402A441FAA003BEEBB /* Class42SafeArea.swift in Sources */,
+				9A72FC342A42048D003BEEBB /* Class38GroupBox.swift in Sources */,
 				9A4374202A389BAB0065A609 /* LoggedInView.swift in Sources */,
 				9A72FC1F2A40AD96003BEEBB /* Class31NewButton.swift in Sources */,
 				9A72FC2C2A4169D4003BEEBB /* Class34TextFields.swift in Sources */,
 				9A2E7A232A38C48B00F36DD2 /* Class21Divider.swift in Sources */,
 				9A4FB2642A24D4E8009E0D5E /* ClassFourGradient.swift in Sources */,
+				9A1F9CEC2A536B3400A9BE7A /* People.swift in Sources */,
+				9A72FC3C2A425EA1003BEEBB /* ControlGroup+QuantityStyle.swift in Sources */,
 				9A72FC242A40BAD0003BEEBB /* ScreenOne.swift in Sources */,
 				9A2B45EB2A3CAF6F00123E06 /* Class26Spinner.swift in Sources */,
+				9A0F2B902A493837003E35EA /* NumbersList.swift in Sources */,
 				9A72FC172A3F74A0003BEEBB /* Class29Stepper.swift in Sources */,
 				9A4374222A389C450065A609 /* LogInViewModel.swift in Sources */,
 				9A4FB2722A28B047009E0D5E /* Class16Observable.swift in Sources */,
 				9A2B45EE2A3CC14C00123E06 /* ProgreesView+Rounded.swift in Sources */,
 				9AE958F92A22205B0012E4C8 /* ClassThree.swift in Sources */,
 				9A2B45E42A39D3BB00123E06 /* Class24Labels.swift in Sources */,
+				9A1F9CF92A53F0BC00A9BE7A /* PeopleView.swift in Sources */,
 				9AE958E82A21D5B80012E4C8 /* tunde_class_oneApp.swift in Sources */,
 				9A72FC212A40B8F5003BEEBB /* Class32TabView.swift in Sources */,
+				9A1F9CFB2A54253600A9BE7A /* Class46ForEachWithIdentifiers.swift in Sources */,
 				9A72FC1D2A408FC7003BEEBB /* SendButton.swift in Sources */,
 				9A4374132A34BF8B0065A609 /* PurchaseStateView.swift in Sources */,
 				9A4FB2682A2500E4009E0D5E /* ClassSixBorder.swift in Sources */,
 				9A2B45E92A39E6C400123E06 /* Class25Padding.swift in Sources */,
+				9A72FC392A425BC8003BEEBB /* Class39ControlGroup.swift in Sources */,
+				9A72FC3E2A42609C003BEEBB /* Class40BackVsOverlay.swift in Sources */,
 				9A4374172A34C2B00065A609 /* PurchaseViewModel.swift in Sources */,
 				9A4FB26A2A250407009E0D5E /* ClassSevenOffsetAlignEtc.swift in Sources */,
 				9A4374192A3886530065A609 /* PurchaseStatusView.swift in Sources */,
@@ -347,7 +484,10 @@
 				9A72FC262A40BB3A003BEEBB /* ScreenTwo.swift in Sources */,
 				9A43741E2A389A860065A609 /* LoginView.swift in Sources */,
 				9A43740E2A34BDF90065A609 /* Class17EnviromentObject.swift in Sources */,
+				9A72FC372A423FAB003BEEBB /* GroupBox+SavedStyle.swift in Sources */,
+				9AA182C82A5367C40074CD97 /* Class44PullToRefresh.swift in Sources */,
 				9A4374242A38A0CD0065A609 /* Content18.swift in Sources */,
+				9A1F9CFE2A542BB400A9BE7A /* PersonForEachView.swift in Sources */,
 				9A2B45E72A39DC1E00123E06 /* Label+CapsuleStyle.swift in Sources */,
 				9AE958F72A21E1C90012E4C8 /* ClassTwo.swift in Sources */,
 				9A2B45F02A3DE27300123E06 /* Class27ToggleCheckBox.swift in Sources */,

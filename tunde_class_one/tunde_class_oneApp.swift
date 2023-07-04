@@ -14,7 +14,7 @@ struct tunde_class_oneApp: App {
     
     var body: some Scene {
         WindowGroup {
-            Class23OpeningLinks()
+            NumbersList()
 //            TabView {
 //                PurchaseView().environmentObject(vm).tabItem {
 //                    Image(systemName: "creditcard")
